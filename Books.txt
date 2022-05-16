@@ -1,0 +1,16 @@
+Android Security Internals
+Attacking Network Protocols
+Black Hat Python
+Gray Hat C#
+Hacking The Art of Exploitation
+IOS Application Security
+Metasploit
+Penetration Testing
+Pentesting Azure Applications
+Practical Forensic Imaging
+Practical Malware Analysis
+Reverse Engineering for Beginners
+Silence On the Wire
+The Car Hacker's Handbook
+Tangled Web
+Understanding Machine Learning
